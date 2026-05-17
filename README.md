@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Topic](https://img.shields.io/badge/topic-Cybersecurity-orange.svg)]()
+[![Topic](https://img.shields.io/badge/topic-Cybersecurity.svg)]()
 ​👁️ Mysterious Thumb: O detetive do terminal! Um script leve de Fingerprint em Python que descobre o sistema operacional e desmascara robôs, antivírus ou sandboxes apenas observando o comportamento oculto de um simples comando print().
 
 
